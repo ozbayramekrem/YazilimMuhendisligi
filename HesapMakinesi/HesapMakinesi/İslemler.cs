@@ -18,5 +18,10 @@ namespace HesapMakinesi
             double sonuc = a * b;
             return sonuc;
         }
+        public double bolme(double a, double b)
+        {
+            double sonuc = a / b;
+            return sonuc;
+        }
     }
 }

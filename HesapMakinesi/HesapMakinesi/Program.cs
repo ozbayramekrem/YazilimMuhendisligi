@@ -30,6 +30,11 @@ namespace HesapMakinesi
                     İslemler ism = new İslemler();
                     Console.WriteLine(ism.carpma(deger1,deger2));
                 }
+                else if (islem == "/")
+                {
+                    İslemler ism = new İslemler();
+                    Console.WriteLine(ism.bolme(deger1, deger2));
+                }
                 else
                 {
                     Console.WriteLine("İslem Hatalı..");

@@ -11,3 +11,6 @@ C:\Users\Asus\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\o
 C:\Users\Asus\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
 C:\Users\Asus\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\SerhatSerdaroglu\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\SerhatSerdaroglu\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\SerhatSerdaroglu\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
