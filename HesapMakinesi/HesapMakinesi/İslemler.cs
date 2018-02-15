@@ -13,6 +13,11 @@ namespace HesapMakinesi
             double sonuc= a+b;
             return sonuc;
         }
+        public double cıkarma(double a, double b)
+        {
+            double sonuc = a - b;
+            return sonuc;
+        }
         public double carpma(double a,double b)
         {
             double sonuc = a * b;
@@ -23,5 +28,6 @@ namespace HesapMakinesi
             double sonuc = a / b;
             return sonuc;
         }
+       
     }
 }

@@ -14,3 +14,10 @@ C:\Users\Asus\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\o
 C:\Users\SerhatSerdaroglu\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
 C:\Users\SerhatSerdaroglu\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
 C:\Users\SerhatSerdaroglu\Documents\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\ferha\OneDrive\Belgeler\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\ferha\OneDrive\Belgeler\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\ferha\OneDrive\Belgeler\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\ferha\OneDrive\Belgeler\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojResolveAssemblyReference.cache
+C:\Users\ferha\OneDrive\Belgeler\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ferha\OneDrive\Belgeler\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\ferha\OneDrive\Belgeler\GitHub\YazilimMuhendisligi\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb

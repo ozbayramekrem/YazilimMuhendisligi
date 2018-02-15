@@ -25,6 +25,11 @@ namespace HesapMakinesi
                     İslemler islm = new İslemler();
                     Console.WriteLine(islm.toplama(deger1, deger2));
                 }
+                else if( islem== "-")
+                {
+                    İslemler ism = new İslemler();
+                    Console.WriteLine(ism.cıkarma(deger1, deger2));
+               }
                 else if (islem == "*")
                 {
                     İslemler ism = new İslemler();
@@ -35,6 +40,7 @@ namespace HesapMakinesi
                     İslemler ism = new İslemler();
                     Console.WriteLine(ism.bolme(deger1, deger2));
                 }
+                
                 else
                 {
                     Console.WriteLine("İslem Hatalı..");
